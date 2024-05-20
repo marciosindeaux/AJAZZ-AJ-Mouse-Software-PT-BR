@@ -11,7 +11,6 @@ Neste repositorio está a tradução para PT-BR do software dos mouses AJAZZ mod
 | :-------- | :----------: |
 |Traduzir o software em si para portugues brasileiro |  100% |
 |Resolução do erro de não aparecer bateria do mouse | 0% |
-|Resolução do erro de não aparecer configurações adicionais de efeito de led | 0% |
 
 
 ## Porque Traduzir
