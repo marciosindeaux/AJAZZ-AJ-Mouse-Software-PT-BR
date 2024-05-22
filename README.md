@@ -13,6 +13,11 @@ Neste repositorio está a tradução para PT-BR do software dos mouses AJAZZ mod
 |Resolução do erro de não aparecer bateria do mouse |    100%     |
 
 
+## Download da tradução 
+A tradução pode ser acessada [aqui neste link.](https://github.com/marciosindeaux/AJAZZ-AJ-Mouse-Software-PT-BR/releases/tag/1.0.0)
+
+Lá voce poderá acessar e aprender a fazer tanto a instalação automatica quanto a instalação manual da tradução.
+
 ## Porque Traduzir
 A tradução visa apenas trazer acessibilidade para o publico que fala portugues e comprou o mouse. Como o software do mouse não tem tradução para o idioma eu resolvi fazer uma propria para pelo menos deixar os menus mais intuitivos e claros. Espero que gostem.
 
